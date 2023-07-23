@@ -1,0 +1,24 @@
+{
+  "trips": [
+    {
+      "title": "2 Night stay in whnice",
+      "price": "$187",
+      "loc": "europe"
+    },
+    {
+      "title": "2 Night stay in whnice",
+      "price": "$187",
+      "loc": "america"
+    },
+    {
+      "title": "2 Night stay in whnice",
+      "price": "$187",
+      "loc": "europe"
+    },
+    {
+      "title": "2 Night stay in whnice",
+      "price": "$187",
+      "loc": "europe"
+    }
+  ]
+}
